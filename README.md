@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Developer | Game Dev Intern | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">  
-  Based in New Delhi, India, I'm currently honing my skills as a Game Developer Intern at a startup. With a diverse background in game development, AI/ML, and full-stack development, I am constantly exploring the intricacies of product design and development.
+  Based in New Delhi, India, I'm a pre-final year student currently honing my skills as a Game Developer Intern at a startup. With a diverse background in game development, AI/ML, and full-stack development, I am constantly exploring the intricacies of product design and development.
 </p>
 
 ---
