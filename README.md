@@ -1,27 +1,39 @@
 <h1 align="center">Hi 👋, I'm Manvi Upadhyay</h1>
-<h3 align="center">
-  Passionate Developer | Game Dev Intern | AI/ML Enthusiast | Full-Stack Developer
-</h3>
+<h3 align="center">Passionate Developer | Game Dev Intern | AI/ML Enthusiast | Full-Stack Developer</h3>
 
-<p align="center">
-  Based in New Delhi, India, I'm currently honing my skills as a Game Developer Intern at a startup. With a diverse background in game development, AI/ML, and machine learning projects, I'm also cultivating my expertise in full-stack development, eagerly exploring the intricacies of product design and development.
+<p align="center">  
+  Based in New Delhi, India, I'm currently honing my skills as a Game Developer Intern at a startup. With a diverse background in game development, AI/ML, and full-stack development, I am constantly exploring the intricacies of product design and development.
 </p>
 
 ---
 
-<h3>🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/manviupadhyay2" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<h2 align="center">🌐 Connect with me</h2>
+<div align="center">
+  <a href="https://linkedin.com/in/manviupadhyay2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/manviupadhyay2" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  <a href="https://discord.gg/manviupadhyay2" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <a href="https://github.com/manviupadhyay" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+<h2>🛠️ Skills & Technologies</h2>
+<p>
+  <strong>Languages:</strong> C++, C#, Python, Java, JavaScript, TypeScript <br />
+  <strong>Web Development:</strong> HTML, CSS3, React, Next.js, Node.js, Tailwind CSS <br />
+  <strong>Tools & Frameworks:</strong> Git, Postman, Figma, Blender, AWS, MySQL, PostgreSQL <br />
+  <strong>Machine Learning:</strong> PyTorch, Scikit-Learn, Pandas <br />
+  <strong>Game Development:</strong> Unity
 </p>
 
 ---
 
-<h3>💻 Languages and Tools:</h3>
+<h2>💻 Languages and Tools</h2>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
