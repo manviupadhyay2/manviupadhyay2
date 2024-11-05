@@ -15,7 +15,7 @@
   <a href="https://discord.gg/manviupadhyay2" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://github.com/manviupadhyay" target="_blank">
+  <a href="https://github.com/manviupadhyay2" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
