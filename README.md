@@ -1,20 +1,12 @@
-<h1 align="center">
-  Hi 👋, I'm <span style="font-size: 3em;">Manvi Upadhyay</span>
-  <!-- Add the anime PFP inside a circular container on the right side -->
-  <div style="display: inline-flex; justify-content: center; align-items: center; margin-left: 20px;">
-    <div style="width: 60px; height: 60px; border-radius: 50%; overflow: hidden;">
-      <img src="https://img.freepik.com/premium-photo/neonwave-anime-girl-wallpaper_973189-36225.jpg" alt="Manvi's Anime PFP" style="width: 100%; height: 100%; object-fit: cover;" />
-    </div>
-  </div>
-</h1>
-
+<h1 align="center">Hi 👋, I'm Manvi Upadhyay</h1>
 <h3 align="center">Passionate Developer | Game Dev Intern | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">  
-  Based in New Delhi, India, I'm a pre-final year student currently honing my skills as a Game Developer Intern at a startup. With a diverse background in game development, AI/ML, and full-stack development, I am constantly exploring the intricacies of product design and development. I'm passionate about learning new technologies and applying them to solve real-world problems. I believe in the power of collaboration, creativity, and innovation in achieving success, and I am always looking for opportunities to grow and contribute to exciting projects in tech.
+  Based in New Delhi, India, I'm a pre-final year student currently honing my skills as a Game Developer Intern at a startup. With a diverse background in game development, AI/ML, and full-stack development, I am constantly exploring the intricacies of product design and development.
 </p>
 
 ---
+
 <h2 align="center">🌐 Connect with me</h2>
 <div align="center">
   <a href="https://linkedin.com/in/manviupadhyay2" target="_blank">
@@ -29,6 +21,7 @@
 </div>
 
 ---
+
 <h2>🛠️ Skills & Technologies</h2>
 <p align="center">
   <strong>Languages:</strong> 
@@ -73,3 +66,4 @@
   <img src="https://img.shields.io/badge/-Unity-100000?style=flat-square&logo=unity&logoColor=white" />
 </p>
 
+---
