@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Developer | Game Dev Intern | AI/ML Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">  
-  I'm a pre-final year student from New Delhi, India, currently interning as a Game Developer at a startup. I specialize in full-stack development and have experience leading product development projects. I’m passionate about designing and building software solutions and have also worked with AI/ML and game development. My focus is on contributing to all stages of product development, from planning to execution.
+  I'm a student from New Delhi, India, currently interning as a Game Developer at a startup. I specialize in full-stack development and have experience leading product development projects. I’m passionate about designing and building software solutions and have also worked with AI/ML and game development. My focus is on contributing to all stages of product development, from planning to execution.
 </p>
 
 ---
